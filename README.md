@@ -5,7 +5,7 @@ Project: Make a clone of Anthropology website.
 
 Original-Website: https://www.anthropologie.com/
 
-Cloned-Website: https://incomparable-sorbet-96eaba.netlify.app/
+Cloned-Website:  https://anthropology-clone.netlify.app/
 
 Anthropology is an online shopping website where user can buy any product. Anthropology website provides a many categories of products like Cloths, Shoes, Accessories, Furniture, Beauty and Wellness etc
 
